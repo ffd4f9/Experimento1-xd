@@ -11,3 +11,4 @@ if __name__ == "__main__":
     for persona in personas:
         persona.mostrar()
         print("**********")
+    print("FIN")
